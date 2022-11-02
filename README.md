@@ -1,2 +1,2 @@
 # testhpc2022
-Test course HPC
+Test course HPC Demo course
